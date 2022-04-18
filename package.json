@@ -1,0 +1,23 @@
+{
+  "name": "doctors-server",
+  "version": "1.0.0",
+  "description": "json server with doctor's data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sweta-Swarnakar/fake-doctor-s-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sweta-Swarnakar/fake-doctor-s-server/issues"
+  },
+  "homepage": "https://github.com/Sweta-Swarnakar/fake-doctor-s-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
